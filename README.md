@@ -26,3 +26,12 @@ API Integration: By integrating with a weather API, the app can leverage the dat
 
 The Weather App project offers a practical and useful tool for users who want to stay informed about weather conditions. It demonstrates the power of HTML, CSS, and JavaScript in building web applications that interact with APIs and provide real-time data to enhance user experiences.
 
+COPY THE CODE FROM THIS 
+https://github.com/Mdsaad03/Weather-App-Using-HTML-CSS-JavaScript-With-Source-Code/blob/005e35249607b91dbea4311c2b9ce7353848cee0/style.css
+https://github.com/Mdsaad03/Weather-App-Using-HTML-CSS-JavaScript-With-Source-Code/blob/005e35249607b91dbea4311c2b9ce7353848cee0/Script
+https://github.com/Mdsaad03/Weather-App-Using-HTML-CSS-JavaScript-With-Source-Code/blob/005e35249607b91dbea4311c2b9ce7353848cee0/HTML.html
+ 
+OUTPUT
+![image](https://github.com/user-attachments/assets/23d42b67-172d-4189-a324-66d00aa0b6ea)
+
+
